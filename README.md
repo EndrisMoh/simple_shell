@@ -5,4 +5,5 @@ This shell is a project-based work by two contributors as part of the training f
 AUTHORS
 
 Endris Mohammed
+  and
 Robel Adane
